@@ -8,6 +8,4 @@ In order to run this code, use "npm start" in the terminal.
 
 # Requirements
 
-The code has been formatted by the VS Code Extension Prettier <https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode>.
-
-There are no other libraries this depends on.
+There are no libraries this depends on.
