@@ -1,6 +1,6 @@
 # JST-Loop-For
 
-The JavaScript Template for For Loops.  The repo is located at: <https://github.com/joseph-kaainoa/jst-loops-for>.
+The JavaScript Tutorial for For Loops.  The repo is located at: <https://github.com/joseph-kaainoa/jst-loops-for>.
 
 ## Introduction
 
